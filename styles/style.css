@@ -1,0 +1,22 @@
+/* for header part */
+.container{
+    position: relative;
+    
+}
+.text-block{
+    margin: 216px 230px 364px 845px;
+    text-align: right;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h2{
+    color: #FFFFFF;
+    font-size: 65px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    padding-bottom: 24;
+}
