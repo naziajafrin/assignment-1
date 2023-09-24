@@ -1,22 +1,23 @@
+
 /* for header part */
-.container{
-    position: relative;
-    
+.header{
+    background-image: url(../new-year-new-me/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+
 }
-.text-block{
-    margin: 216px 230px 364px 845px;
+.container{
+    height: 800px;
     text-align: right;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    color: #FFFFFF;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 216 230 364 985;
+}
+.button{
+
 }
 h2{
     color: #FFFFFF;
-    font-size: 65px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 700;
-    padding-bottom: 24;
+    font-family: work sans-serif;
+    font-weight: 400px;
+    font-size: 700;
 }
