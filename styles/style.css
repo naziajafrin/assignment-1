@@ -38,3 +38,20 @@ p{
     border: 0;
     margin-right: 230px;
 }
+
+/* for main part */
+
+main{
+    max-width: 1600px;
+    margin: 0 ;
+}
+.section-1{
+    display: inline;
+}
+ul{
+    list-style: none;
+}
+ul li::before{
+    content: '✓';
+    color: rgb(26, 230, 26);
+}
