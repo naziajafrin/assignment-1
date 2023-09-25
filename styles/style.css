@@ -29,7 +29,7 @@
     padding-right: 230px;
     margin-bottom: 30px;
 }
-.button{
+.button-primary{
     color: #005FAC;
     height: 50px;
     border-radius: 6px;
@@ -136,4 +136,47 @@ ul li::before{
 .part-3 > button{
     margin-left: 150px;
     
+}
+
+.future{
+    padding: 130px 200px;
+    color: #F8F8F8;
+    display: flex;
+    gap: 100px;
+    background-color: black;
+}
+.future a{
+    text-decoration: none;
+}
+.future p{
+    padding-bottom: 24px;
+}
+.future .future-title{
+    text-align: left;
+    padding-bottom: 16px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.button-secondary{
+    color: #FFFFFF;
+    background-color: #005FAC;
+    height: 50px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 20px;
+    border: 0;
+    padding: 30px 35px 50px 35px;
+    margin-right: 230px;
+}
+.future input,textarea{
+    margin-bottom: 24px;
+    border: 0;
+}
+.input{
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.future-description{
+
 }
