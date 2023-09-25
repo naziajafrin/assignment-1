@@ -84,7 +84,18 @@ ul li::before{
     color: rgb(26, 230, 26);
 }
 .plan-container{
+    text-align: center;
+}
+.plan-header{
+    padding-top: 140px;
+    padding-bottom: 80px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.plan-container-2{
+    display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 .plan-title{
 
