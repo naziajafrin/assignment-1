@@ -83,3 +83,12 @@ ul li::before{
     content: '✓';
     color: rgb(26, 230, 26);
 }
+.plan-container{
+    align-items: center;
+}
+.plan-title{
+
+}
+.plan-description{
+
+}
