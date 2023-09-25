@@ -42,10 +42,7 @@
 
 /* for main part */
 
-/* main{
-    max-width: 1600px;
-    margin: 0 ;
-} */
+/* main part 1 */
 .marge{
     display: flex;
 }
@@ -84,6 +81,7 @@ ul li::before{
     content: '✓';
     color: rgb(26, 230, 26);
 }
+/* main part 2 */
 .plan-container{
     text-align: center;
 }
@@ -107,5 +105,35 @@ ul li::before{
     color: #737272;
     font-size: 30px;
     font-weight: 500;
-
+}
+/* main part 3 */
+.part-3{
+    width: 92%;
+    height: 350px;
+    background-color: #005FAC;
+    background-image: url(../new-year-new-me/images/watch.png);
+    border: 8px;
+    margin-top: 130px;
+    margin-left:80px ;
+    margin-right:80px;
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* position: relative; */
+}
+.part-3 > h2 {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-bottom: 15px;
+    background-image: linear-gradient(to right,
+    rgb(23, 102, 193),
+    rgba(0,0,0,0));
+}
+.part-3 > button{
+    margin-left: 150px;
+    
 }
